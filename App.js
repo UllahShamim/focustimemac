@@ -1,5 +1,5 @@
 import React, {useState} from 'react';
-import { Text, View, StyleSheet, Platform, SafeAreaView, StatusBar } from 'react-native';
+import { StyleSheet, Platform, SafeAreaView, StatusBar } from 'react-native';
 import Constants from 'expo-constants';
 import { colors } from './src/utils/colors';
 import { Focus } from './src/features/focus';
